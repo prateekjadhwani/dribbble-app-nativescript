@@ -1,0 +1,8 @@
+<Page loaded="pageLoaded">
+	<ListView items="{{ myItems }}">
+		<ListView.itemTemplate>
+			<Image src="{{ imageSrc }}" />
+			<Label text="{{ title }}" />
+		</ListView.itemTemplate>
+	</ListView>
+</Page>
