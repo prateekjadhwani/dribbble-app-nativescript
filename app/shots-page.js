@@ -104,8 +104,23 @@ var data = [
   }
 ];
 
+var dribbbleData = require("./dribbble-data");
+var view = require("ui/core/view");
+
+var listView = null;
+
+dribbbleData.getShots().then( function(r){
+	console.log(JSON.stringify(r));
+	data = r;
+	listView.items = data;
+	listView.refresh();
+}, function(err){
+	console.log(err);
+});
+
 function pageLoaded(args) {
 	var page = args.object;
+	listView = view.getViewById(page, "myListView");
 	page.bindingContext = {
 		myItems: data
 	};

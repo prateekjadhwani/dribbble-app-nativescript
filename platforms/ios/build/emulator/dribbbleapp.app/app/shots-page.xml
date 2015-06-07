@@ -1,5 +1,5 @@
 <Page loaded="pageLoaded">
-	<ListView items="{{ myItems }}">
+	<ListView id="myListView" items="{{ myItems }}">
 		<ListView.itemTemplate>
 			<StackLayout orientation="vertical">
 				<Image src="{{ imageSrc }}" stretch="none" />
