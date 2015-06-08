@@ -15,12 +15,8 @@
 /Users/prateekjadhwani/Documents/Practice/dribbble-app/platforms/android/assets/metadata \
 /Users/prateekjadhwani/Documents/Practice/dribbble-app/platforms/android/assets/app/app.css \
 /Users/prateekjadhwani/Documents/Practice/dribbble-app/platforms/android/assets/app/app.js \
-/Users/prateekjadhwani/Documents/Practice/dribbble-app/platforms/android/assets/app/just-image.js \
-/Users/prateekjadhwani/Documents/Practice/dribbble-app/platforms/android/assets/app/just-image.xml \
+/Users/prateekjadhwani/Documents/Practice/dribbble-app/platforms/android/assets/app/dribbble-data.js \
 /Users/prateekjadhwani/Documents/Practice/dribbble-app/platforms/android/assets/app/LICENSE \
-/Users/prateekjadhwani/Documents/Practice/dribbble-app/platforms/android/assets/app/main-page.js \
-/Users/prateekjadhwani/Documents/Practice/dribbble-app/platforms/android/assets/app/main-page.xml \
-/Users/prateekjadhwani/Documents/Practice/dribbble-app/platforms/android/assets/app/main-view-model.js \
 /Users/prateekjadhwani/Documents/Practice/dribbble-app/platforms/android/assets/app/package.json \
 /Users/prateekjadhwani/Documents/Practice/dribbble-app/platforms/android/assets/app/shots-page.js \
 /Users/prateekjadhwani/Documents/Practice/dribbble-app/platforms/android/assets/app/shots-page.xml \

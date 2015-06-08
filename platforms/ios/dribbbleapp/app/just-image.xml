@@ -1,3 +1,0 @@
-<Page loaded="pageLoaded">
-	<Image src="{{ myImage }}" />
-</Page>
