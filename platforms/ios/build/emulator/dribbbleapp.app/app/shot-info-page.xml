@@ -1,0 +1,9 @@
+<Page onNavigatedTo="pageNavigatedTo">
+	<StackLayout orientation="vertical">
+		<Image src="{{ data.images.normal }}" />
+		<StackLayout orientation="horizontal">
+			<Image src="{{ data.user.avatar_url }}" />
+			<Label text="{{ data.title }}" cssClass="message"/>
+		</StackLayout>
+	</StackLayout>
+</Page>

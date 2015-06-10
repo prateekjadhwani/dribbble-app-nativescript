@@ -1,9 +1,9 @@
 <Page loaded="pageLoaded">
 	<Label text="Shots!!" cssClass="message"/>
-	<ListView id="myListView" items="{{ myItems }}">
+	<ListView id="myListView" items="{{ myItems }}" itemTap="listViewItemTap" >
 		<ListView.itemTemplate>
 			<StackLayout orientation="vertical">
-				<Image src="{{ images.normal }}" stretch="aspectFill" />
+				<Image src="{{ images.hidpi ? images.hidpi : images.normal }}" stretch="aspectFill" />
 				<Label text="{{ title }}" cssClass="message"/>
 			</StackLayout>
 		</ListView.itemTemplate>

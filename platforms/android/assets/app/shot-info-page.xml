@@ -1,0 +1,9 @@
+<Page>
+	<StackLayout orientation="vertical">
+		<Image src="{{ imageSrc }}" />
+		<StackLayout orientation="horizontal">
+			<Image src="" />
+			<Label text="{{ title }}" cssClass="message"/>
+		</StackLayout>
+	</StackLayout>
+</Page>

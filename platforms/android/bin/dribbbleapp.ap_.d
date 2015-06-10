@@ -18,6 +18,7 @@
 /Users/prateekjadhwani/Documents/Practice/dribbble-app/platforms/android/assets/app/dribbble-data.js \
 /Users/prateekjadhwani/Documents/Practice/dribbble-app/platforms/android/assets/app/LICENSE \
 /Users/prateekjadhwani/Documents/Practice/dribbble-app/platforms/android/assets/app/package.json \
+/Users/prateekjadhwani/Documents/Practice/dribbble-app/platforms/android/assets/app/shot-info-page.xml \
 /Users/prateekjadhwani/Documents/Practice/dribbble-app/platforms/android/assets/app/shots-page.js \
 /Users/prateekjadhwani/Documents/Practice/dribbble-app/platforms/android/assets/app/shots-page.xml \
 /Users/prateekjadhwani/Documents/Practice/dribbble-app/platforms/android/assets/app/tns_modules \
